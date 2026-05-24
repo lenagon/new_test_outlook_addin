@@ -1,0 +1,2 @@
+!function(){function e(e){Office.context.mailbox.item.notificationMessages.replaceAsync("send",{type:"informationalMessage",message:"COMMAND WORKS",persistent:!1}),e.completed()}Office.onReady(function(){Office.actions.associate("sendToErp",e)})}();
+//# sourceMappingURL=commands.js.map
